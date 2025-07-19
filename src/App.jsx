@@ -7,7 +7,7 @@ export default function App() {
       <div className="max-w-5xl mx-auto">
        
         <div className="text-center mb-8 animate-fade-in-up">
-          <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent mb-4">
             Recurring Date Picker
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
